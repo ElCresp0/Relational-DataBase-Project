@@ -1,0 +1,10 @@
+DELETE FROM Cel;
+DELETE FROM Uczestnictwo;
+DELETE FROM Transport;
+DELETE FROM Ekspedycje;
+DELETE FROM Astronauci;
+DELETE FROM Pojazdy;
+DELETE FROM Planety;
+DELETE FROM Gwiazdy;
+DELETE FROM Ciala_niebieskie;
+DELETE FROM Galaktyki;
